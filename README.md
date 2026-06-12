@@ -6,7 +6,7 @@ I build computational systems — and the tools that make them. Houdini artist a
 
 Alongside studio work, an open-source practice reoriented around AI — coding agents for Houdini and TouchDesigner, a Copernicus toolkit featured by SideFX, and ongoing experiments with neural cellular automata as a design material.
 
-The recurring question: how is form encoded — as physical law, as parametric rule, as learned behavior.
+The recurring question: how is form encoded — as physical law, as parametric rule, as learned behavior. 
 
 ## 01 — Open Source
 
