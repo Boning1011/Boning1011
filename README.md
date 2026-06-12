@@ -22,3 +22,4 @@ Neural cellular automata as a design material: tiny physics-inspired update rule
 ## 03 — Elsewhere
 
 [boningli.com](https://boningli.com) · [Instagram](https://instagram.com/boning1011) · [X](https://x.com/BoningLi1) · [LinkedIn](https://www.linkedin.com/in/bo-ning-li-972253171/) · bo-ning@boningli.com
+
