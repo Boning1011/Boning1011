@@ -1,4 +1,6 @@
-# Bo-Ning Li
+# Bo-Ning Li · 厉博宁
+
+<img src="assets/banner.jpg" alt="" width="100%">
 
 Artist & technologist working with simulation, generative systems, and emergence.
 
